@@ -1,64 +1,66 @@
 <div align="center">
 
-# Hii, I'm Shruthi 🌷
+# Hi, I'm Shruthi 🌷
 
-### Aspiring AI/ML Engineer • CSE Student • Curious Builder ✨
+### CSE (AI & ML) Student | Learning, building and figuring things out
 
-<p>
-  🌸 Learning every day &nbsp; • &nbsp;
-  💻 Building useful projects &nbsp; • &nbsp;
-  🤖 Exploring AI
-</p>
+I enjoy creating small projects, learning new skills, and slowly growing in tech ✨
 
 </div>
 
 ---
 
-## 🧸 About Me
+## 🌸 A little about me
 
-- 🎓 Computer Science student specializing in **Artificial Intelligence & Machine Learning**
-- 🌱 Currently learning **Python, C++, HTML, CSS, and Machine Learning**
-- 💡 I love turning simple ideas into meaningful and useful projects
-- 🤖 Interested in AI applications, automation, and frontend development
-- ✨ Growing one step at a time and enjoying the journey
+Hi! I’m Shruthi, a Computer Science student with an interest in AI, web development, and practical projects.
+
+I like taking simple ideas and trying to turn them into something useful. Right now, I am focusing on improving my programming skills and building projects that help me learn by doing.
 
 ---
 
-## 🌼 What I’m Working On
+## 🌱 Currently learning
 
-- 🛡️ **ChatShieldAI** — AI-based suspicious conversation analyzer  
-- 🤝 **Borrow & Buy** — An app for urgent borrowing and buying requests  
-- ✅ **Productivity App** — A simple task, habit, and goal tracker  
-
----
-
-## 🛠️ My Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-7B68EE?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-9370DB?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-BA55D3?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-DA70D6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-FF7F50?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-6495ED?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- Python and C++
+- HTML and CSS
+- Basics of Machine Learning
+- Git and GitHub
+- How to build better real-world projects
 
 ---
 
-## 💌 Let’s Connect
+## 💻 Things I’m working on
 
-📧 **Email:** [shruthihasini194@gmail.com](mailto:shruthihasini194@gmail.com)  
-💼 **LinkedIn:** [shruthihasini](https://www.linkedin.com/in/shruthihasini/)
+### ChatShieldAI
+A project idea to identify suspicious or unsafe conversations using AI.
+
+### Borrow & Buy
+A simple app for people who need to borrow or request items urgently.
+
+### Productivity App
+A task, habit, and goal tracker to help users stay organised.
+
+---
+
+## 🛠️ Tools and technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📫 Connect with me
+
+📧 [shruthihasini194@gmail.com](mailto:shruthihasini194@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/shruthihasini/)
 
 ---
 
 <div align="center">
 
-### 🌸 “Learning, building, and becoming better every day.” 🌸
+🌷 Learning one thing at a time and enjoying the process.
 
 </div>
