@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🌷
+# hey! i’m shruthii 🌸
 
-### growing, glowing & enjoying the little things ✨
+### here to learn, create & bloom ✨
 
 </div>
